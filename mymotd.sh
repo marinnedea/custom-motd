@@ -5,7 +5,7 @@ clear
 
 # Gather system information
 os_release=$(hostnamectl | awk -F': ' '/Operating System/ {print $2}')
-host_name=$(hostnamectl | awk -F': ' '/Hostname/ {print $2}')
+host_name=$(hostnamectl | grep -i 'hostname' | awk -F': ' '{print $2}')
 kernel_vers=$(uname -r)
 iam=$USER
 mywd=$PWD
