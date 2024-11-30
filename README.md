@@ -116,7 +116,3 @@ Test your MOTD script after applying these changes to ensure the new color schem
 ## Disclaimer
 
 This script is provided "as is" without any warranty. Use it at your own risk.
-
-```
-
-This revised README offers a comprehensive overview of the script's functionality, prerequisites, installation steps, testing methods, customization options, and a disclaimer. 
