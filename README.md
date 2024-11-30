@@ -3,6 +3,9 @@
 
 This script displays system information upon user login, offering insights into system status and resource usage.
 
+![image](https://github.com/user-attachments/assets/5b369036-1419-4e91-9fa7-b1818bf309df)
+
+
 ## Features
 
 - **Operating System Details:** Displays the OS name and version.
